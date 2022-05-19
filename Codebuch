@@ -1,0 +1,11 @@
+Edgelist
+from: Name des vorherigen Vereins
+to: Rückennummer
+weight: Transfersumme in Hunderttausend Euro Schritten, gerundet falls abweichend
+season: Transferfenster: letztes Transfehrjahr
+
+Nodelist
+id: Rückennummer des Spielers 
+name = Spieler oder Vereinsname
+country = Land des Vereins / Nationalität des Spielers 
+type 1 = Spieler, 2 = Verein
